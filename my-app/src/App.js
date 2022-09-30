@@ -12,6 +12,8 @@ function App() {
           <Route path="*" element={<p>404 - Página não encontrada</p>} />
         </Routes>
       </BrowserRouter>
+
+      
     );
 }
  
